@@ -1,2 +1,1 @@
-# Jor ⋅ *ˑ☆
-- Brasil
+Atividade.
