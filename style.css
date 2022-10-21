@@ -10,8 +10,9 @@ text-alig: center;
 
 p {
     text-align: center;
-    font-size: 30px;
+    font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:azure;
 }
 
 
